@@ -1,0 +1,17 @@
+{
+    "courseName":^courseName,
+    "teacher":{
+        "name":"sb",
+        "age":"50"
+    },
+    "people":[
+        {
+        "firstName":"Brett",
+        "lastName":"McLaughlin"
+        },
+        {
+        "firstName":"Jason",
+        "lastName":"Hunter"
+        }
+    ]
+}
